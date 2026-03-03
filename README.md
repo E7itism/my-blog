@@ -19,7 +19,7 @@ A blog website built with Laravel, Vue.js, Inertia.js, Bootstrap 4 and MySQL.
 ## Installation
 
 1. Clone the repository
-git clone https://github.com/YOURUSERNAME/my-blog.git
+git clone https://github.com/E7itism/my-blog.git
 
 2. Install PHP dependencies
 composer install
