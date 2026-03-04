@@ -27,7 +27,9 @@ const submit = () => {
         <div class="col-md-4">
             <div class="card shadow">
                 <div class="card-header text-center bg-dark text-white">
-                    <h4 class="mb-0">My Blog</h4>
+                    <h4 class="mb-0">
+                        Ingco<span class="text-danger">Blog</span>
+                    </h4>
                 </div>
                 <div class="card-body p-4">
                     <h5 class="card-title text-center mb-4">Login</h5>
